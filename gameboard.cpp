@@ -52,6 +52,7 @@ Gameboard::Gameboard(vector<string> &cardDB, vector<string*> &playingCards)
                 //return false;
             }
         attempts++;
+        cout<<"Attempts: "<<attempts<<endl;
 
         }
 
